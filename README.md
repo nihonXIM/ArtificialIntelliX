@@ -1,10 +1,13 @@
 ### AI研究について
+最近、AI発展が激しくなっていますね。
+
 #### 1. 現在のAIの流れと発展方向
 2024.06
 
 現在はどこまでどのようなAIモデルがあるかをご紹介します。
 
-Classification, Regression, Clustering, Neural Network, Reinforment Learning, AI-Model(ChatGPT)
+Classification, Regression, Clustering, Neural Network, 
+Reinforment Learning, AI-Model(ChatGPT)
 Train, Model-Data, Prediction
 
 
